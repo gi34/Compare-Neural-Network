@@ -21,11 +21,13 @@ The goal is to understand how neural network complexity and hyperparameter tunin
 
 ## Project Structure
 
+```
 Neural Network/
 └── Baseline.py         # train and evaluate a logistic regression model as baseline model
 └── mlp2.py             # train and evaluate a MLP model
 └── Neural Network.py   # train and evaluate logistic regression and perceptron
 └── diabetes.csv        # dataset used for model training
+```
 
 ## Methodology
 
